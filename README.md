@@ -10,7 +10,7 @@
 |------|------|--------|
 | **Team Lead** | Anas Khalid | [@Gitanaskhan26](https://github.com/Gitanaskhan26) |
 | **Frontend Developer** | Ali Hasan | [@alihasan792](https://github.com/alihasan792) |
-| **Backend Developer** | Ahmad Rahman | [@7moodal5oory](https://github.com/7moodal5oory) |
+| **Backend Developer** | Ahmad Rahman | [@AhmadR07](https://github.com/AhmadR07) |
 
 ---
 
